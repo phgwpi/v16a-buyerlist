@@ -1,0 +1,84 @@
+	                                                            /*phgwpi APPS*****/
+	
+	body{text-align: center;
+	     font-family: 'architects_daughterregular';
+	     border:1px solid #329999;
+	     border-radius: 15px;
+	     margin:20px;
+	     padding-top: 15px;
+	    
+	           }
+	  
+	
+	textarea,.section{
+		      text-align: center;
+	         width: 250px;
+	         height: 100px;
+	          font-size: 1.5em;	
+	          font-family: 'architects_daughterregular';
+	          border:1px solid #f76752;		
+	          border-radius: 15px;
+	          margin:10px; 
+	         }
+	         
+	h3{color: #a2607c;}         
+	         
+	#formpi{
+	  width: 300px;
+	  margin: auto;
+	  padding: 20px;
+	  border: 1px solid #329999;
+	  border-radius: 15px;
+	   
+	}
+	
+	#losdatos{
+	  
+	  width: 300px;
+	  margin: auto;
+	 margin-top: 5px;
+	  padding: 10px;
+	  border:1px solid #329999;
+	   border-radius: 10px;
+	}
+	
+	
+	
+	#losdatos div{
+	  padding: 15px;
+	  border-bottom: 1px solid #329999;
+	  
+	}
+	
+	.resalta{color: #993232;}
+	
+	@font-face {
+	    font-family: 'architects_daughterregular';
+	    src: url('architectsdaughter-webfont.eot');
+	    src: url('architectsdaughter-webfont.eot?#iefix') format('embedded-opentype'),
+	         url('architectsdaughter-webfont.woff2') format('woff2'),
+	         url('architectsdaughter-webfont.woff') format('woff'),
+	         url('architectsdaughter-webfont.ttf') format('truetype'),
+	         url('architectsdaughter-webfont.svg#architects_daughterregular') format('svg');
+	    font-weight: normal;
+	    font-style: normal;
+	
+	}
+	       
+	.bou{
+	     padding: 15px;
+	     border-radius: 10px;
+	     background:#a2607c;
+	     color: #fff; }
+	     
+	     .bou:hover{background:#FEE299;
+	                color: #52363b;}
+	
+	@media only screen and (max-width: 400px) {
+	#formpi{border:none;}
+	body{margin: 5px;}
+	}
+
+   @media only screen and (max-width: 340px) {
+     textarea,.section{margin-left: -20px;}
+   } 

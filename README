@@ -1,0 +1,3 @@
+Buyerlist es una aplicación para realizar la lista de la compra de forma simple y práctica. Hemos utilizado la API localStorage
+para su desarrollo, lo que quiere decir que siempre hay que usar el mismo navegador para recuperar los datos almacenados.
+-phgwpi APPS-
